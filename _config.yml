@@ -38,8 +38,9 @@ avatar: "/img/will cotton headshot.jpg"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+# 1f2041-4b3f72-ffc857-119da4-19647e
 
-navbar-col: "#F5F5F5"
+navbar-col: "#1f2041"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
