@@ -8,7 +8,7 @@ I'm a student in Lambda School's DS3 cohort. Also a graduate of UT Dallas (B.S.,
 
 Some of my research interests include:
 
-- Artificial Intelligence
+- Artificial intelligence
 - Bioinformatics
 - Quantitatively motivated public policy
 - Sociology and group coordination
