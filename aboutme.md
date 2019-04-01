@@ -13,4 +13,6 @@ Some of my research interests include:
 - Quantitatively motivated public policy
 - Sociology and group coordination
 
+Currently located in DFW, but willing to relocate.
+
 ### my history
