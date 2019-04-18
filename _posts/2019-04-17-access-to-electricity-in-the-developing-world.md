@@ -7,4 +7,4 @@ subtitle: An initial exploration
 
 ![electricity](/img/electricity.png){:class="img-responsive"}
 
-Medium link: *add later*
+Medium link: https://medium.com/@will.cotton4/access-to-electricity-in-the-developing-world-be32203c823d
