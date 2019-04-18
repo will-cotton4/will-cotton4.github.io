@@ -16,4 +16,3 @@ Some of my research interests include:
 
 Currently located in DFW, but willing to relocate.
 
-### my history
