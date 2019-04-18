@@ -12,4 +12,4 @@ subtitle: An initial exploration
 
 
 
-Medium link: https://medium.com/@will.cotton4/access-to-electricity-in-the-developing-world-be32203c823d
+[**Medium link**](https://medium.com/@will.cotton4/access-to-electricity-in-the-developing-world-be32203c823d)
