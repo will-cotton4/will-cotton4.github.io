@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access to electricity in the developing world
-subtitle: An initial exploration
+subtitle: An initial exploration through visualization
 ---
 
 
